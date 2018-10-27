@@ -1,0 +1,231 @@
+<style> 
+
+  <h1> -Menu principal- </h1> 
+
+      { 
+
+      font-size: 65px; 
+
+      color: #444444; 
+
+      font-family: Helvetica, Arial, sans-serif; 
+
+        
+
+    } 
+
+    h1 { 
+
+      font-size: 48px; 
+
+      color:#50e3ea; 
+
+      top margin: 100px; 
+
+    } 
+
+     
+
+    h2 { 
+
+      font-size: 70px; 
+
+      color:#black; 
+
+    } 
+
+    h1, h2, h3 { 
+
+      font-family: 'Oswald', sans-serif; 
+
+      color:#black; 
+
+       
+
+    } 
+
+    p { 
+
+      line-height: 1.4; 
+
+      font-size: 15px; 
+
+    } 
+
+    img.logo { 
+
+      margin: 0 auto; 
+
+      display: block; 
+
+    } 
+
+    img.profile { 
+
+      border: 1px solid grey; 
+
+      width: 50px; 
+
+      height: 50px; 
+
+      padding: 5px; 
+
+      margin-right: 10px; 
+
+      float: left; 
+
+      margin-right: 20px; 
+
+    } 
+
+    section.banner { 
+
+      padding-top: 0px; 
+
+      padding-bottom: 0px; 
+
+      background: url(<img src="img/20181012001517.png">) center center; 
+
+      background-attachment: fixed; 
+
+      color: #f51c1c; 
+
+      text-align: center; 
+
+      width: 500px; 
+
+      height: 850px; 
+
+    } 
+
+    section.banner p { 
+
+      font-size: 22px; 
+
+    } 
+
+    section.banner h1 { 
+
+      text-transform: uppercase; 
+
+      margin-bottom: 0px; 
+
+    } 
+
+    section.about { 
+
+      background: url('images/tile1.png'); 
+
+      overflow: hidden; 
+
+    } 
+
+    section.about h2 { 
+
+      text-align: center; 
+
+   
+
+    } 
+
+    section.favourites { 
+
+      text-align: center; 
+
+      
+
+
+
+    } 
+
+    section.contact { 
+
+      text-align: center; 
+
+      background: url('images/tile2.png'); 
+
+    } 
+
+    section.contact img { 
+
+      margin: 20px; 
+
+    } 
+
+    section.box { 
+
+      padding: 50px 100px; 
+
+    } 
+
+    section.box h2, section.box h3 { 
+
+      color:#black; 
+
+     
+
+    } 
+
+    .menu { 
+
+      list-style: none; 
+
+      padding: 0; 
+
+      margin: 0; 
+
+      text-align: center; 
+
+      border-bottom: 1px solid #434A5C; 
+
+      background: #ffffff; 
+
+      position: fixed; 
+
+      top: 0; 
+
+      left: 0; 
+
+      width: 100%; 
+
+       
+
+    } 
+
+    .menu li { 
+
+      display: inline-block; 
+
+      padding: 20px 35px; 
+
+    } 
+
+    .menu a { 
+
+      text-decoration: none; 
+
+      color: #333333; 
+
+      font-weight: bold; 
+
+      text-transform: uppercase; 
+
+      font-family: 'Oswald', sans-serif; 
+
+     
+
+    } 
+
+    img { 
+
+      width: 1050px; 
+
+      height: 900px; 
+
+      position: center; 
+
+      space: 100px; 
+
+      } 
+
+  </style>
